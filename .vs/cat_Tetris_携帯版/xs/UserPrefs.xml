@@ -1,0 +1,22 @@
+﻿<Properties StartupConfiguration="{3121720C-5F38-880A-C03E-2DA65EA02984}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/blockGenerator.cs">
+    <Files>
+      <File FileName="Assets/PlayerController.cs" Line="58" Column="55" />
+      <File FileName="Assets/blockGenerator.cs" Line="89" Column="43" />
+      <File FileName="Assets/blockController1.cs" />
+      <File FileName="Assets/blockController2.cs" Line="142" Column="14" />
+      <File FileName="Assets/blockController3.cs" Line="141" Column="14" />
+      <File FileName="Assets/blockController4.cs" Line="15" Column="5" />
+      <File FileName="Assets/blockController5.cs" Line="143" Column="14" />
+      <File FileName="Assets/blockController6.cs" Line="141" Column="14" />
+      <File FileName="Assets/blockController7.cs" Line="152" Column="77" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="7f2d5017-f4a8-4429-ad43-eb0dc377bd88" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

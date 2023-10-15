@@ -1,0 +1,36 @@
+﻿<Properties StartupConfiguration="{A7019859-93BF-77F9-51F4-1500B711F531}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/blockController7.cs">
+    <Files>
+      <File FileName="Assets/blockGenerator.cs" Line="112" Column="28" IsPinned="True" />
+      <File FileName="Assets/blockController1.cs" Line="63" Column="1" IsPinned="True" />
+      <File FileName="Assets/PlayerController.cs" Line="39" Column="48" />
+      <File FileName="Assets/blockController2.cs" Line="91" Column="10" />
+      <File FileName="Assets/blockController3.cs" Line="90" Column="10" />
+      <File FileName="Assets/blockController4.cs" Line="89" Column="10" />
+      <File FileName="Assets/blockController6.cs" Line="90" Column="10" />
+      <File FileName="Assets/blockController5.cs" Line="92" Column="10" />
+      <File FileName="Assets/blockController7.cs" Line="91" Column="10" />
+      <File FileName="Assets/ClearDirector.cs" Line="1" Column="1" />
+      <File FileName="Assets/FailedDirector.cs" Line="1" Column="1" />
+      <File FileName="Assets/StartDirector.cs" Line="6" Column="19" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Mario_Tetris" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="blockController7.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="5734b707-023d-4a86-836f-b12556677be9" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
